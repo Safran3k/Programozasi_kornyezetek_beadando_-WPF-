@@ -1,0 +1,57 @@
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\bin\Debug\ProgKorny_Beadando.exe.config
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\bin\Debug\ProgKorny_Beadando.exe
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\bin\Debug\ProgKorny_Beadando.pdb
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\BejelentkezesForm.g.cs
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\App.g.cs
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando_MarkupCompile.cache
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando_MarkupCompile.lref
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\BejelentkezesForm.baml
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.g.resources
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.Properties.Resources.resources
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.csproj.GenerateResource.cache
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.exe
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.pdb
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\RegisztracioForm.g.cs
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\RegisztracioForm.baml
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\FilmekForm.g.cs
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\FilmekForm.baml
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\BejelentkezesForm.g.cs
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\FilmekForm.g.cs
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\RegisztracioForm.g.cs
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\App.g.cs
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando_MarkupCompile.cache
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando_MarkupCompile.lref
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.exe
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.pdb
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\bin\Debug\ProgKorny_Beadando.exe.config
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\bin\Debug\ProgKorny_Beadando.exe
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\bin\Debug\ProgKorny_Beadando.pdb
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\BejelentkezesForm.baml
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\FilmekForm.baml
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\RegisztracioForm.baml
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.g.resources
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.Properties.Resources.resources
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.csproj.GenerateResource.cache
+C:\Users\Futo Richard\Desktop\ProgKorny_Beadando másolata\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\bin\Debug\ProgKorny_Beadando.exe.config
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\bin\Debug\ProgKorny_Beadando.exe
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\bin\Debug\ProgKorny_Beadando.pdb
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.csproj.AssemblyReference.cache
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\BejelentkezesForm.g.cs
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\FilmekForm.g.cs
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\RegisztracioForm.g.cs
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\App.g.cs
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando_MarkupCompile.cache
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando_MarkupCompile.lref
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\BejelentkezesForm.baml
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\FilmekForm.baml
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\RegisztracioForm.baml
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.g.resources
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.Properties.Resources.resources
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.csproj.GenerateResource.cache
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.exe
+C:\Users\Futo Richard\Desktop\Harmadik félév\Programozási környezetek gy\ProgKorny_Beadando\ProgKorny_Beadando\obj\Debug\ProgKorny_Beadando.pdb
